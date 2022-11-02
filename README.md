@@ -1,2 +1,3 @@
-#Labs
-(Setting up AWS Budgets)(/budgets)
+# Labs
+
+(Setting up AWS Budgets)(/budgets.md)
